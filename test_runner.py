@@ -34,7 +34,6 @@ test_cases: List[Dict[str, Any]] = [
         "shortcuts": [2, 3, 4, 5, 6, 6],
         "expected_output": [0, 1, 2, 3, 4, 5],
     },
-    # Add more test cases if needed
     {
         "n": 98,
         "shortcuts": [
